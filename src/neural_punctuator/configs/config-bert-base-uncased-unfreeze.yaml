@@ -6,7 +6,7 @@ experiment:
   name: bert-base-uncased
 
 data:
-  data_path: /userhome/student/bial/neural-punctuator/data/bert-base-uncased/
+  data_path: /content/neural-punctuator/ted-talks/bert-base-uncased/
   output_labels: [empty, period, question, comma]
 
 preprocessor:
